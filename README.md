@@ -30,8 +30,6 @@ $ python3.8 manage.py runserver
 Then once you are done, open your browser with the local host; 127.0.0.1:8000
 
 
-
-
 # Technologies used
 1.python 3.8.10
 2.HTML
