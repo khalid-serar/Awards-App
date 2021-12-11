@@ -9,6 +9,10 @@ This a Django Awards replica where a user can post a project together with the p
 # Set up & installations
 To get the code, clone the repository: https://github.com/khalid-serar/Awards-App.git and run the following commands;
 
+$ cd Awwards-Show
+$ pip install -r requirements.txt
+
+
 # Technologies used
 1.python 3.8.10
 2.HTML
